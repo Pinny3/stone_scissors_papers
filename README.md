@@ -1,2 +1,2 @@
-# stone_scissors_papers
+# Stone Scissors Paper
 The little game everyone knows
